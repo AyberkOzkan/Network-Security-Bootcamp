@@ -1,7 +1,7 @@
 # ***Network-Security-Bootcamp***
 
 ### **Proje 1** : 
-    IPv4 omurga ve IPv6 omurga kendi içlerinde statik routing ile haberleşelebilmeli.
+    IPv4 omurga ve IPv6 omurga kendi içlerinde statik routing ile haberleşebilmeli.
     ISTANBUL lokasyonunda gerekli L2 düzenlemeler sağlanmalı
     Serverlara sadece verdikleri servis portundan ulaşılmalı
 <br>
