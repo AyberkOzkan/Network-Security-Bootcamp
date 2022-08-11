@@ -36,7 +36,7 @@
 - Istanbul network'une IPv4 ve IPv6 omurgalarının erişimini kısıtlamak için Port Base ACL yazdım.
     - Artık Izmir ve Ankara networklerindeki cihazlar serverlara icmp paket gönderemiyor.
     - TCP ve UDP izinleri verildi.
-
+    <!--- 4yb3rk--->
 - Network güvenliğini sağlamak için MAC adresi düzeyinde Port Security ayarlarını yaptım.
 
 - Izmir ve Ankara networklerine 2 tane end device koydum bu sayede ayarları doğru yapıp yapmadığımı kontrol ettim.
